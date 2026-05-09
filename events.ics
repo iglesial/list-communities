@@ -6411,6 +6411,32 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de lecture 26.4 - L’éloge de la fuite
+DTSTART;TZID=Europe/Paris:20260627T100000
+DTEND;TZID=Europe/Paris:20260627T120000
+UID:https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite@c
+ ommunity-events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-
+ de-la-fuite\n📍 Le Node\, 12 rue des Faussets\, 33000 BORDEAUX\n\nLe clu
+ b de lecture 26.4 se tiendra samedi 27 juin de 10h00 à 12h00 au Node.\n\n
+ Le livre sélectionné est “L’éloge de la fuite” de Henri Laborit.\
+ n\n"Se révolter\, c'est courir à sa perte\, car la révolte\, si elle se
+  réalise en groupe\, retrouve aussitôt une échelle hiérarchique de sou
+ mission à l'intérieur du groupe\, et la révolte\, seule\, aboutit rapid
+ ement à la soumission du révolté... Il ne reste plus que la fuite."\nHe
+ nri Laborit pose\, à la lumière des découvertes biologiques\, la questi
+ on de notre libre arbitre\, de notre personnalité même. La politique\, l
+ a société\, tout prend dès lors une autre dimension.\n\n*****\n\nLe clu
+ b de lecture est un moment de partage et d’échange autour d’un livre.
+ \nLes participants ont lu l’ouvrage ou tout au moins une partie signific
+ ative.\n\nLe nombre de places étant limité à 15\, merci de vous désins
+ crire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté: agile-b
+ ordeaux
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 BORDEAUX
+TZID:Europe/Paris
+URL:https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?
 DTSTART;TZID=Europe/Paris:20260425T100000
 DTEND;TZID=Europe/Paris:20260425T120000

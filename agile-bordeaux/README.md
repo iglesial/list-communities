@@ -15,6 +15,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/agile-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Samedi 27 juin 2026 à 10:00 | Club de lecture 26.4 - L’éloge de la fuite | Le Node, 12 rue des Faussets, 33000 BORDEAUX | https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite |
+
 ## 📆 Past Events
 
 <details>
