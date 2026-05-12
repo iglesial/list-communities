@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 11 mai 2026 à 18:30 | [data-for-good](data-for-good/) | [Demo Day S14](https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) | Le node, 12 rue des Faussets, 33000 Bordeaux |
 | Mardi 12 mai 2026 à 18:30 | [bordeauxjs](bordeauxjs/) | [Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?](https://luma.com/r2vnp9kp) | Le Node, 12 rue des Faussets 33000 Bordeaux |
 | Vendredi 22 mai 2026 à 09:00 | [afup-bordeaux](afup-bordeaux/) | [AFUP Day 2026 Bordeaux](https://event.afup.org/) | TBD |
+| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
